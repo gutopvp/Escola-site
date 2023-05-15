@@ -1,0 +1,4 @@
+.cabeçalho{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
+.imagem-logo{width: 20%;}
+.cabeçalho-lista{display: inline-block; margin: 0 16px;}
+.site{background-color: white;color: rgb(255, 0, 0);}
