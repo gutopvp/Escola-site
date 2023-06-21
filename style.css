@@ -3,3 +3,4 @@
 .cabeçalho-lista{display: inline-block; margin: 0 16px;}
 .site{background-color: white;color: rgb(255, 0, 0);}
 .imagem-jogadores{width: 180px; height: 130px;}
+.rodape{background-color:black; color:aquamarine; display: flex; justify-content: space-around;}
