@@ -1,6 +1,7 @@
-.cabeçalho{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
+.cabeçalho{background-color: #301212; color: white; display: flex; justify-content: space-around;}
 .imagem-logo{width: 20%;}
 .cabeçalho-lista{display: inline-block; margin: 0 16px;}
-.site{background-color: white;color: rgb(255, 0, 0);}
+.site{background-color: rgb(43, 18, 1rgb(46, 23, 23)255, 0, 0);}
 .imagem-jogadores{width: 180px; height: 130px;}
-.rodape{background-color:black; color:aquamarine; display: flex; justify-content: space-around;}
+.rodape{background-color:black; color:rgb(69, 185, 147); display: flex; justify-content: space-around;}
+.produtos{}
